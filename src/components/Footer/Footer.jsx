@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 import { FadeUp } from '../Hero/Hero'
 const Footer = () => {
   return (
-    <footer className='py-28 bg-light'>
+    <footer id='footer' className='py-28 bg-light'>
         <motion.div 
             variants={FadeUp(0.3)}
             initial='initial'

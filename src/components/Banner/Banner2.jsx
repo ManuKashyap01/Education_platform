@@ -7,7 +7,7 @@ import { SlideRight } from './Banner'
 
 const Banner2 = () => {
   return (
-    <section>
+    <section id='our_team'>
         <div className="container py-14 md:py-24 grid grid-cols-1 md:grid-cols-2 gap-8 space-y-6 md:space-y-0">
             {/* Content */}
             <motion.div 

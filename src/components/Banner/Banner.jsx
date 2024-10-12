@@ -25,7 +25,7 @@ export const SlideRight = (delay) =>{
 }
 const Banner = () => {
   return (
-    <section className='bg-light'>
+    <section id='about_us' className='bg-light'>
         <div className="container py-14 md:py-24 grid grid-cols-1 md:grid-cols-2 gap-8 space-y-6 md:space-y-0">
             {/* Image */}
             <div className="flex justify-center items-center">
