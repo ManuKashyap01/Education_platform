@@ -2,6 +2,10 @@
 
 This is a modern, **frontend-focused education platform** built using **ReactJS**, **TailwindCSS**, and **Framer Motion**. Designed with both functionality and aesthetics in mind, this project showcases the developer's expertise in creating dynamic, responsive, and visually captivating user interfaces for web applications.
 
+## Live Demo 🌐
+
+Check out the live version of the platform here: [Education Platform Live](https://edplatform.netlify.app/)
+
 ## Features ✨
 
 - **Interactive User Interface**: Tailored with TailwindCSS for an elegant, responsive, and intuitive user experience.
